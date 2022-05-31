@@ -55,8 +55,7 @@
   <!--START_SECTION:waka-->
 
 ```text
-PHP          0 secs          ██████████████░░░░░░░░░░░   56.17 %
-JavaScript   0 secs          ███████████░░░░░░░░░░░░░░   43.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
