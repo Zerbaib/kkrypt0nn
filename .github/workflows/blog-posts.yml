@@ -12,3 +12,4 @@ jobs:
      - uses: gautamkrishnar/blog-post-workflow@master
        with:
          feed_list: "https://krypton.ninja/atom.xml"
+         gh_token: ${{ secrets.GH_TOKEN }}
