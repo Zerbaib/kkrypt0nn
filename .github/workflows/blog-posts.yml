@@ -9,6 +9,8 @@ jobs:
    runs-on: ubuntu-latest
    steps:
      - uses: actions/checkout@v2
+       with:
+         token: ${{ secrets.GH_TOKEN }}
      - uses: gautamkrishnar/blog-post-workflow@master
        with:
          feed_list: "https://krypton.ninja/atom.xml"
