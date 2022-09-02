@@ -27,8 +27,8 @@
 - [🗃️ Reversing a Go stripped binary](https://krypton.ninja/2022/08/23/Reversing-a-Go-stripped-binary/)
 - [🚀 Space Heroes 2022 CTF write-up](https://krypton.ninja/2022/04/03/Space-Heroes-2022-CTF-write-up/)
 - [🚩 Insomni&#39;hack 2022 CTF write-up](https://krypton.ninja/2022/03/28/Insomnihack-2022-CTF-write-up/)
-- [🔒 How I protected my Minecraft cheating client](https://krypton.ninja/2022/01/30/How-I-protected-my-Minecraft-cheating-client/)
-- [❔ What is Go?](https://krypton.ninja/2021/10/16/What-is-Go/)
+- [🔐 How I protected my Minecraft cheating client](https://krypton.ninja/2022/01/30/How-I-protected-my-Minecraft-cheating-client/)
+- [📗 What is Go?](https://krypton.ninja/2021/10/16/What-is-Go/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
