@@ -8,8 +8,8 @@
   <a href="https://go.krypton.ninja/discord">Discord</a> • <a href="https://go.krypton.ninja/mail">Email</a> • <a href="https://go.krypton.ninja/keybase">Keybase</a> • <a href="https://krypton.ninja">Website</a>
 </p>
 
-- 🛠️ I'm currently working on a **non data selling and privacy oriented social media** and some **offensive tools**.
-- 🌱 I'm currently learning **Go**, **Reverse Engineering** & **TS**.
+- 🛠️ I'm currently working on some **offensive tools** and **too many side projects**.
+- 🌱 I'm currently learning **Go**, **Reverse Engineering** & **TypeScript**.
 - 💭 Ask me things about anything and I will try to answer.
 - 📇 Contact me: [Krypton#7331](https://go.krypton.ninja/discord) on Discord, [@kkrypt0nn](https://go.krypton.ninja/twitter) on Twitter, per [Email](https://go.krypton.ninja/mail) or [kkrypt0nn](https://go.krypton.ninja/keybase) on Keybase.
 - 🐺💜 Fun facts: My favorite animal is a wolf and my favorite color is [#9C84EF](https://color-hex.com/color/9c84ef).
