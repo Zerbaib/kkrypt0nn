@@ -24,11 +24,11 @@
 
 ### 📩 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🗃️ Reversing a Go stripped binary](https://krypton.ninja/2022/08/23/Reversing-a-Go-stripped-binary/)
-- [🚀 Space Heroes 2022 CTF write-up](https://krypton.ninja/2022/04/03/Space-Heroes-2022-CTF-write-up/)
-- [🚩 Insomni&#39;hack 2022 CTF write-up](https://krypton.ninja/2022/03/28/Insomnihack-2022-CTF-write-up/)
-- [🔐 How I protected my Minecraft cheating client](https://krypton.ninja/2022/01/30/How-I-protected-my-Minecraft-cheating-client/)
-- [📗 What is Go?](https://krypton.ninja/2021/10/16/What-is-Go/)
+- [Generating unique IDs with the Snowflake algorithm](https://krypton.ninja/2022/11/08/Generating-unique-IDs-with-the-Snowflake-algorithm/)
+- [Reversing a Go stripped binary](https://krypton.ninja/2022/08/23/Reversing-a-Go-stripped-binary/)
+- [Space Heroes 2022 CTF write-up](https://krypton.ninja/2022/04/03/Space-Heroes-2022-CTF-write-up/)
+- [Insomni&#39;hack 2022 CTF write-up](https://krypton.ninja/2022/03/28/Insomnihack-2022-CTF-write-up/)
+- [How I protected my Minecraft cheating client](https://krypton.ninja/2022/01/30/How-I-protected-my-Minecraft-cheating-client/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
