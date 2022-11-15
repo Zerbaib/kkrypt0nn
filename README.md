@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<p align="center">Hewwo, I am Krypton <i>(coming from the Krypton element)</i> or kkrypt0nn, which is mostly used for social media usernames. I'm a small developer and newbie <a href="https://krypton.ninja/ctfs">CTF player</a>. I like computers <i>(surprised?)</i>, programming and anything related to cyber security.<br><br><strong>I 💜 open source</strong></p>
+<p align="center">Hey there, I’m Krypton! (Coming from the <a href="https://en.wikipedia.org/wiki/Krypton">Krypton element</a> 36 ) I’m a small developer, competitive shooter and wannabe security researcher. I like computers <i>(surprised?)</i> and anything related to cyber security, especially reverse engineering and networking.<br><br><strong>I 💜 open source</strong></p>
 
 <hr>
 
